@@ -1,7 +1,13 @@
 # natsune
+<div align="center">
+  
 [![](https://komarev.com/ghpvc/?username=natsuneco&style=for-the-badge)](https://github.com/natsuneco)
 [![](https://img.shields.io/badge/Zenn-natsune-3ea8fe.svg?style=for-the-badge&logo=zenn)](https://zenn.dev/natsune)
+  
+</div>
 
+**natsune** (なつね) です！！  
+ピアノが好きです 🎹
 
 ## My Skills
 ### Langages
