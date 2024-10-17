@@ -1,8 +1,9 @@
 # natsune
 <div align="center">
   
-[![](https://komarev.com/ghpvc/?username=natsuneco&style=for-the-badge)](https://github.com/natsuneco)
-[![](https://img.shields.io/badge/Zenn-natsune-3ea8fe.svg?style=for-the-badge&logo=zenn)](https://zenn.dev/natsune)
+[![Profile views](https://komarev.com/ghpvc/?username=natsuneco&style=for-the-badge)](https://github.com/natsuneco)
+[![Zenn](https://img.shields.io/badge/Zenn-natsune-3ea8fe.svg?style=for-the-badge&logo=zenn)](https://zenn.dev/natsune)
+[![Likes](https://badgen.org/img/zenn/natsune/likes?style=for-the-badge)](https://zenn.dev/natsune)
   
 </div>
 
